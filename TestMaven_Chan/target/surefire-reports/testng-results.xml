@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestMaven_Chan.TestProjectTeam" duration-ms="120" started-at="2020-10-12T19:43:02 EDT" finished-at="2020-10-12T19:43:02 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="120" started-at="2020-10-12T19:43:02 EDT" finished-at="2020-10-12T19:43:02 EDT">
+      <class name="TestMaven_Chan.TestProjectTeam">
+        <test-method status="PASS" signature="TestProjectTeam()[pri:0, instance:TestMaven_Chan.TestProjectTeam@475530b9]" name="TestProjectTeam" duration-ms="14" started-at="2020-10-12T19:43:02 EDT" finished-at="2020-10-12T19:43:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestProjectTeam -->
+      </class> <!-- TestMaven_Chan.TestProjectTeam -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestMaven_Chan.TestProjectTeam -->
+</testng-results>
